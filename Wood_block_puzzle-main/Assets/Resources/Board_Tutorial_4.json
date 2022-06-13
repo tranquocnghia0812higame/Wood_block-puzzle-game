@@ -1,0 +1,51 @@
+{
+  "board": {
+    "grid": [
+      { "coordX": 0, "coordY": 4, "type": 2, "containStar": false },
+      { "coordX": 0, "coordY": 5, "type": 2, "containStar": false },
+      { "coordX": 1, "coordY": 4, "type": 2, "containStar": false },
+      { "coordX": 1, "coordY": 5, "type": 2, "containStar": false },
+      { "coordX": 2, "coordY": 4, "type": 2, "containStar": false },
+      { "coordX": 2, "coordY": 5, "type": 2, "containStar": false },
+      { "coordX": 3, "coordY": 4, "type": 2, "containStar": false },
+      { "coordX": 3, "coordY": 5, "type": 2, "containStar": false },
+      { "coordX": 4, "coordY": 0, "type": 2, "containStar": false },
+      { "coordX": 4, "coordY": 1, "type": 2, "containStar": false },
+      { "coordX": 4, "coordY": 2, "type": 4, "containStar": false },
+      { "coordX": 4, "coordY": 3, "type": 4, "containStar": false },
+      { "coordX": 4, "coordY": 6, "type": 3, "containStar": false },
+      { "coordX": 4, "coordY": 7, "type": 2, "containStar": false },
+      { "coordX": 4, "coordY": 8, "type": 2, "containStar": false },
+      { "coordX": 4, "coordY": 9, "type": 3, "containStar": false },
+      { "coordX": 5, "coordY": 0, "type": 2, "containStar": false },
+      { "coordX": 5, "coordY": 1, "type": 2, "containStar": false },
+      { "coordX": 5, "coordY": 2, "type": 4, "containStar": false },
+      { "coordX": 5, "coordY": 3, "type": 4, "containStar": false },
+      { "coordX": 5, "coordY": 4, "type": 5, "containStar": false },
+      { "coordX": 5, "coordY": 6, "type": 3, "containStar": false },
+      { "coordX": 5, "coordY": 7, "type": 2, "containStar": false },
+      { "coordX": 5, "coordY": 8, "type": 2, "containStar": false },
+      { "coordX": 5, "coordY": 9, "type": 3, "containStar": false },
+      { "coordX": 6, "coordY": 4, "type": 5, "containStar": false },
+      { "coordX": 6, "coordY": 5, "type": 5, "containStar": false },
+      { "coordX": 7, "coordY": 4, "type": 5, "containStar": false },
+      { "coordX": 7, "coordY": 5, "type": 5, "containStar": false },
+      { "coordX": 8, "coordY": 4, "type": 2, "containStar": false },
+      { "coordX": 8, "coordY": 5, "type": 2, "containStar": false },
+      { "coordX": 9, "coordY": 4, "type": 2, "containStar": false },
+      { "coordX": 9, "coordY": 5, "type": 2, "containStar": false }
+    ]
+  },
+  "blocks": {
+    "blocks": [
+      { "id": "", "type": -1 },
+      { "id": "Block_5_4", "type": 1, "blockAngle": 270 },
+      { "id": "", "type": -1 }
+    ]
+  },
+  "targetPositions": [
+    { "coordX": 4, "coordY": 4 },
+    { "coordX": 4, "coordY": 5 },
+    { "coordX": 5, "coordY": 5 }
+  ]
+}

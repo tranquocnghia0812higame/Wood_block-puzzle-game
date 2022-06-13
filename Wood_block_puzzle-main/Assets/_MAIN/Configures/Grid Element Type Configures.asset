@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96d45afd2d63246bbaa64f1f1bd76872, type: 3}
+  m_Name: Grid Element Type Configures
+  m_EditorClassIdentifier: 
+  m_Configures:
+  - type: 0
+    icon: {fileID: 21300000, guid: 41536631a05e74881a51d2d7fb3b8831, type: 3}
+    iconWithStar: {fileID: 21300000, guid: 53216065327234636bf34c624a15fd93, type: 3}
+    iconBright: {fileID: 21300000, guid: 41536631a05e74881a51d2d7fb3b8831, type: 3}
+    iconBrightWithStar: {fileID: 21300000, guid: 53216065327234636bf34c624a15fd93,
+      type: 3}
+  - type: 1
+    icon: {fileID: 21300000, guid: f26c0ffef6fba4cddacd1b576101913d, type: 3}
+    iconWithStar: {fileID: 21300000, guid: 63895569c52f8465580bea08871c5fd4, type: 3}
+    iconBright: {fileID: 21300000, guid: 17b81bbfbebe44ee1bfa23330c41ae36, type: 3}
+    iconBrightWithStar: {fileID: 21300000, guid: fbe0e5ea528e94deab48fc4ab414ece3,
+      type: 3}

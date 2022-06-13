@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7d695e4c07fc4edfabe6b63d89efd1a, type: 3}
+  m_Name: Booster Controller Definition
+  m_EditorClassIdentifier: 
+  starPrefab: {fileID: 8556628748898561716, guid: a85492546594e40ca88313d403fed0ff,
+    type: 3}
+  rotateIconPrefab: {fileID: 7407176165283537067, guid: a07d79e7b55054a00985751e935d17bc,
+    type: 3}
+  switchIconPrefab: {fileID: 1171339490112307876, guid: 522e43970e8a24dcfb83331d49b657d8,
+    type: 3}
+  bombIconPrefab: {fileID: 4217068734890426399, guid: 1e2b9ca27ad8c460eac37f2048bf70cf,
+    type: 3}

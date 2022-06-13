@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PopupAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 11226b49504d94b28988f1d0b2c39f46, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b2654a407c8374131bd1b7a9a722c5db, type: 3}
+  - {fileID: 21300000, guid: ea4b7a8152e0846aa987f418a2fd92c2, type: 3}
+  - {fileID: 21300000, guid: 1d5c91f118445471c9d4b949207b2356, type: 3}
+  - {fileID: 21300000, guid: 263fb0129eeb343c4b193c77b37a912d, type: 3}
+  - {fileID: 21300000, guid: 602ea712d8a6b42c08a47c17616bf631, type: 3}
+  - {fileID: 21300000, guid: 6a2dd772d5eb3436ba0703d5d0b4cd8a, type: 3}
+  - {fileID: 21300000, guid: c6c056920bafe4765aeecee64a3efb69, type: 3}
+  - {fileID: 21300000, guid: 79737c231c08f47389c0e954f9f5f4f5, type: 3}
+  - {fileID: 21300000, guid: 5aa6b705ca155497a95c0d0cf8eda10f, type: 3}
+  - {fileID: 21300000, guid: b88d7b461422a4b8eb97bb371b0c8ee4, type: 3}
+  - {fileID: 21300000, guid: 1f620266e702e43b49d3bfc32592de9c, type: 3}
+  - {fileID: 21300000, guid: 7b716107e08d6413195525722ec387fc, type: 3}
+  - {fileID: 21300000, guid: 9c678c174ad9e4676bc0ad6b115e32ca, type: 3}
+  - {fileID: 21300000, guid: 97a62a272478b4692bb9b69996c5dcdf, type: 3}
+  - {fileID: 21300000, guid: 1ad29087cf45f4c1e9b84f525ee46893, type: 3}
+  - {fileID: 21300000, guid: 7e15c7d7b33a3452a861a6e61f479d18, type: 3}
+  - {fileID: 21300000, guid: 5f8f51691889e4144a25b22d26f02f95, type: 3}
+  - {fileID: 21300000, guid: a1f49cd9f5c6a404b9fe69453df4479a, type: 3}
+  - {fileID: 21300000, guid: 6b6044e9a06a9401b8520270151d957e, type: 3}
+  - {fileID: 21300000, guid: 48bb499a0b6784018b8561f91709ca98, type: 3}
+  - {fileID: 21300000, guid: dccadfcad2fa9432390a73f6e20c17eb, type: 3}
+  - {fileID: 21300000, guid: 780b18ea6e1e14a2f81e1d6aea8bda2c, type: 3}
+  - {fileID: 21300000, guid: 2409031bb033a4c9ea46896e4f4db18f, type: 3}
+  - {fileID: 21300000, guid: 84b2e22bd669f4be1b185ec80018ae94, type: 3}
+  - {fileID: 21300000, guid: f0ea3e6b9f26d4f5997117572e4c38b2, type: 3}
+  - {fileID: 21300000, guid: 84f2629bfbdde46669edd53e116912b8, type: 3}
+  - {fileID: 21300000, guid: ca83e3ab4b0af498bbd9fcc60e58141a, type: 3}
+  - {fileID: 21300000, guid: 4065d7ab4f2c540ddabe2cdb316c8838, type: 3}
+  - {fileID: 21300000, guid: b15dc3bb92ab347c08bfd73779060767, type: 3}
+  - {fileID: 21300000, guid: 3a4e32fb19dc64bb6baaab1f9113a344, type: 3}
+  - {fileID: 21300000, guid: 27fbcc0c735d94acc9f2241177e365d2, type: 3}
+  - {fileID: 21300000, guid: a981781ccf3cc4bf89bab89a8b9b54ae, type: 3}
+  - {fileID: 21300000, guid: c7b0596c21fce44b7aa9148b1fcf867b, type: 3}
+  - {fileID: 21300000, guid: 942ed7bc9f4f84d4b9fb0d09233d25df, type: 3}
+  - {fileID: 21300000, guid: 0778c43d01cf742f1aa2bd59632209ff, type: 3}
+  - {fileID: 21300000, guid: e0d01edd614ee498a8f0fff66c2cd97e, type: 3}
+  - {fileID: 21300000, guid: 79deb90ea876b4f07a1c0ac571931e17, type: 3}
+  - {fileID: 21300000, guid: 2848ed4edd2864f1f88d23f21617bbac, type: 3}
+  - {fileID: 21300000, guid: 75edbefe9c7bb4baab9d26ada099081c, type: 3}
+  - {fileID: 21300000, guid: a97db80f3609541199f06e2b0fa7185e, type: 3}
+  - {fileID: 21300000, guid: f3761dcf5d04941c98f4b9327760ca51, type: 3}
+  - {fileID: 21300000, guid: 6305fbff5a164419fb0a9f62b3389edd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - loading_logo
+  - continue_line
+  - continue_button_watch
+  - button_close
+  - pause_sound_on
+  - continue_header
+  - rewards_bomb_4
+  - pause_button_rate
+  - rewards_switch_4
+  - rewards_title
+  - highscore_line
+  - loading_title
+  - highscore_cup
+  - rewards_switch_1
+  - loading_progress
+  - rewards_switch_5
+  - game_over_button_replay
+  - pause_button_replay
+  - pause_bg
+  - rewards_switch_6
+  - pause_button_round
+  - rewards_block
+  - game_over_cup
+  - pause_music_off
+  - highscore_ribbon
+  - game_over_rope
+  - rewards_frame
+  - rewards_switch_2
+  - pause_button_leaderboard
+  - pause_title
+  - rewards_bomb_2
+  - rewards_switch_3
+  - rewards_hand
+  - rewards_rotate_icon
+  - game_over_rope_node
+  - game_over_bg
+  - pause_button_resume
+  - highscore_star
+  - loading_progress_bg
+  - rewards_bomb_3
+  - game_over_title
+  - pause_music_on
+  m_Tag: PopupAtlas
+  m_IsVariant: 0

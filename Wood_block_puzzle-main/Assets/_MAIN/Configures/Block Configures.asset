@@ -1,0 +1,564 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a5b049fa86344e9abdffe36ef85715, type: 3}
+  m_Name: Block Configures
+  m_EditorClassIdentifier: 
+  blockSpawnCountPerRow: 60
+  blocks:
+  - id: Block_1
+    availableFromSpawnCount: 0
+    limitCountOnARow: 2
+    availableAngles: 00000000
+    childrenCoordinateByAngleList:
+    - angle: 0
+      childrenCoordinate:
+      - x: 0
+        y: 0
+    - angle: 90
+      childrenCoordinate:
+      - x: 0
+        y: 0
+    - angle: 180
+      childrenCoordinate:
+      - x: 0
+        y: 0
+    - angle: 270
+      childrenCoordinate:
+      - x: 0
+        y: 0
+    prefab: {fileID: 2006482308768675665, guid: 534f947b767e84f27a940bc6702e45c9,
+      type: 3}
+  - id: Block_2_1
+    availableFromSpawnCount: 30
+    limitCountOnARow: 3
+    availableAngles: 000000005a000000
+    childrenCoordinateByAngleList:
+    - angle: 0
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: -1
+    - angle: 90
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: 0
+    - angle: 180
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: 1
+    - angle: 270
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: 0
+    prefab: {fileID: 2170089957467725007, guid: 3463be3d83b124653b021c0e1f7102f0,
+      type: 3}
+  - id: Block_3_1
+    availableFromSpawnCount: 0
+    limitCountOnARow: -1
+    availableAngles: 000000005a000000
+    childrenCoordinateByAngleList:
+    - angle: 0
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: 0
+      - x: 2
+        y: 0
+    - angle: 90
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: -1
+      - x: 0
+        y: -2
+    - angle: 180
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: 0
+      - x: -2
+        y: 0
+    - angle: 270
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: 1
+      - x: 0
+        y: 2
+    prefab: {fileID: 1460945454559594833, guid: 7622e1f10fa174d7e80f5908a063aa98,
+      type: 3}
+  - id: Block_4
+    availableFromSpawnCount: 0
+    limitCountOnARow: -1
+    availableAngles: 00000000
+    childrenCoordinateByAngleList:
+    - angle: 0
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: 0
+      - x: 0
+        y: 1
+      - x: 1
+        y: 1
+    - angle: 90
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: -1
+      - x: 1
+        y: 0
+      - x: 1
+        y: -1
+    - angle: 180
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: 0
+      - x: 0
+        y: -1
+      - x: -1
+        y: -1
+    - angle: 270
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: 1
+      - x: -1
+        y: 0
+      - x: -1
+        y: 1
+    prefab: {fileID: 5550989559790564230, guid: e4a82bcbf230d4395afcebad0dff28b4,
+      type: 3}
+  - id: Block_5_3
+    availableFromSpawnCount: 30
+    limitCountOnARow: -1
+    availableAngles: 000000005a000000b40000000e010000
+    childrenCoordinateByAngleList:
+    - angle: 0
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: 1
+      - x: 0
+        y: 1
+    - angle: 90
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: 1
+      - x: 1
+        y: 0
+    - angle: 180
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: -1
+      - x: 0
+        y: -1
+    - angle: 270
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: -1
+      - x: -1
+        y: 0
+    prefab: {fileID: 8250710672139767804, guid: fa5f8ff800b51446097c0453a0bd654a,
+      type: 3}
+  - id: Block_5_4
+    availableFromSpawnCount: 0
+    limitCountOnARow: -1
+    availableAngles: 000000005a000000b40000000e010000
+    childrenCoordinateByAngleList:
+    - angle: 0
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: 1
+      - x: 1
+        y: 1
+    - angle: 90
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: 0
+      - x: 1
+        y: -1
+    - angle: 180
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: -1
+      - x: -1
+        y: -1
+    - angle: 270
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: 0
+      - x: -1
+        y: 1
+    prefab: {fileID: 5091099297859828504, guid: ab912f592a8a347c68932d7cc39f364a,
+      type: 3}
+  - id: Block_6_2
+    availableFromSpawnCount: 0
+    limitCountOnARow: 3
+    availableAngles: 000000005a000000
+    childrenCoordinateByAngleList:
+    - angle: 0
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: 1
+      - x: 0
+        y: 2
+      - x: 0
+        y: 3
+    - angle: 90
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: 0
+      - x: 2
+        y: 0
+      - x: 3
+        y: 0
+    - angle: 180
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: -1
+      - x: 0
+        y: -2
+      - x: 0
+        y: -3
+    - angle: 270
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: 0
+      - x: -2
+        y: 0
+      - x: -3
+        y: 0
+    prefab: {fileID: 5698986881747554219, guid: 3315e85bff25e473bbef53f171cced3a,
+      type: 3}
+  - id: Block_7_1
+    availableFromSpawnCount: 0
+    limitCountOnARow: -1
+    availableAngles: 00000000b4000000
+    childrenCoordinateByAngleList:
+    - angle: 0
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: 1
+      - x: 1
+        y: 0
+      - x: 2
+        y: 0
+    - angle: 90
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: 0
+      - x: 0
+        y: -1
+      - x: 0
+        y: -2
+    - angle: 180
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: -1
+      - x: -1
+        y: 0
+      - x: -2
+        y: 0
+    - angle: 270
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: 0
+      - x: 0
+        y: 1
+      - x: 0
+        y: 2
+    prefab: {fileID: 7115624790154767605, guid: 26d6c2d0b636a41bcacf94d5ce56931c,
+      type: 3}
+  - id: Block_8_1
+    availableFromSpawnCount: 60
+    limitCountOnARow: 3
+    availableAngles: 00000000
+    childrenCoordinateByAngleList:
+    - angle: 0
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: 1
+      - x: 1
+        y: 0
+      - x: 2
+        y: 0
+    - angle: 90
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: -1
+      - x: 0
+        y: -1
+      - x: 0
+        y: -2
+    - angle: 180
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: -1
+      - x: -1
+        y: 0
+      - x: -2
+        y: 0
+    - angle: 270
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: 1
+      - x: 0
+        y: 1
+      - x: 0
+        y: 2
+    prefab: {fileID: 8414078603786234173, guid: 26b01f2d5fff24b3bbf25fc8730ae135,
+      type: 3}
+  - id: Block_9
+    availableFromSpawnCount: 0
+    limitCountOnARow: 1
+    availableAngles: 00000000
+    childrenCoordinateByAngleList:
+    - angle: 0
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: 1
+      - x: 0
+        y: 2
+      - x: 1
+        y: 0
+      - x: 1
+        y: 1
+      - x: 1
+        y: 2
+      - x: 2
+        y: 0
+      - x: 2
+        y: 1
+      - x: 2
+        y: 2
+    - angle: 90
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: 0
+      - x: 2
+        y: 0
+      - x: 0
+        y: -1
+      - x: 1
+        y: -1
+      - x: 2
+        y: -1
+      - x: 0
+        y: -2
+      - x: 1
+        y: -2
+      - x: 2
+        y: -2
+    - angle: 180
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: -1
+      - x: 0
+        y: -2
+      - x: -1
+        y: 0
+      - x: -1
+        y: -1
+      - x: -1
+        y: -2
+      - x: -2
+        y: 0
+      - x: -2
+        y: -1
+      - x: -2
+        y: -2
+    - angle: 270
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: 0
+      - x: -2
+        y: 0
+      - x: 0
+        y: 1
+      - x: -1
+        y: 1
+      - x: -2
+        y: 1
+      - x: 0
+        y: 2
+      - x: -1
+        y: 2
+      - x: -2
+        y: 2
+    prefab: {fileID: 1017339138849034640, guid: 44987b98a29f34f2d840ded38e56e785,
+      type: 3}
+  - id: Block_11_4
+    availableFromSpawnCount: 0
+    limitCountOnARow: 1
+    availableAngles: 00000000
+    childrenCoordinateByAngleList:
+    - angle: 0
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 2
+        y: -1
+      - x: 1
+        y: 0
+      - x: 2
+        y: 0
+      - x: 2
+        y: -2
+    - angle: 90
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: -2
+      - x: 0
+        y: -1
+      - x: 0
+        y: -2
+      - x: -2
+        y: -2
+    - angle: 180
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -2
+        y: 1
+      - x: -1
+        y: 0
+      - x: -2
+        y: 0
+      - x: -2
+        y: 2
+    - angle: 270
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: 2
+      - x: 0
+        y: 1
+      - x: 0
+        y: 2
+      - x: 2
+        y: 2
+    prefab: {fileID: 5218791901262984798, guid: 13a7fe84d55194477a1aa5a7e9829ee1,
+      type: 3}
+  - id: Block_14_2
+    availableFromSpawnCount: 150
+    limitCountOnARow: 3
+    availableAngles: 00000000
+    childrenCoordinateByAngleList:
+    - angle: 0
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 1
+        y: 0
+      - x: 0
+        y: 1
+      - x: 1
+        y: -1
+    - angle: 90
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: -1
+      - x: 1
+        y: 0
+      - x: -1
+        y: -1
+    - angle: 180
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: -1
+        y: 0
+      - x: 0
+        y: -1
+      - x: -1
+        y: 1
+    - angle: 270
+      childrenCoordinate:
+      - x: 0
+        y: 0
+      - x: 0
+        y: 1
+      - x: -1
+        y: 0
+      - x: 1
+        y: 1
+    prefab: {fileID: 7685911572196699150, guid: 01f85656819904ef888545afd26f9225,
+      type: 3}

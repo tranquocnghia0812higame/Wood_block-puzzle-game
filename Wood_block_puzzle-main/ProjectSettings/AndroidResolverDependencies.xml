@@ -1,0 +1,51 @@
+<dependencies>
+  <packages>
+    <package>com.android.support:support-annotations:28.0.0</package>
+    <package>com.applovin:applovin-sdk:10.3.1</package>
+    <package>com.facebook.android:audience-network-sdk:5.+</package>
+    <package>com.google.android.gms:play-services-ads:20.2.0</package>
+    <package>com.google.android.gms:play-services-ads-identifier:17.0.0</package>
+    <package>com.google.android.gms:play-services-base:17.5.0</package>
+    <package>com.google.android.gms:play-services-basement:17.2.1</package>
+    <package>com.google.firebase:firebase-analytics:18.0.0</package>
+    <package>com.google.firebase:firebase-analytics-unity:7.0.2</package>
+    <package>com.google.firebase:firebase-app-unity:7.0.2</package>
+    <package>com.google.firebase:firebase-common:19.3.1</package>
+    <package>com.google.firebase:firebase-config:20.0.0</package>
+    <package>com.google.firebase:firebase-config-unity:7.0.2</package>
+    <package>com.google.firebase:firebase-crashlytics:17.2.2</package>
+    <package>com.google.firebase:firebase-crashlytics-unity:7.0.2</package>
+    <package>com.ironsource.adapters:admobadapter:4.3.21</package>
+    <package>com.ironsource.adapters:applovinadapter:4.3.26</package>
+    <package>com.ironsource.adapters:pangleadapter:4.3.4</package>
+    <package>com.ironsource.adapters:unityadsadapter:4.3.11</package>
+    <package>com.ironsource.sdk:mediationsdk:7.1.7</package>
+    <package>com.pangle.global:ads-sdk:3.7.1.1</package>
+    <package>com.unity3d.ads:unity-ads:3.7.2</package>
+  </packages>
+  <files>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/7.0.2/firebase-analytics-unity-7.0.2.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/7.0.2/firebase-analytics-unity-7.0.2.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/7.0.2/firebase-app-unity-7.0.2.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/7.0.2/firebase-app-unity-7.0.2.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-config-unity/7.0.2/firebase-config-unity-7.0.2.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-config-unity/7.0.2/firebase-config-unity-7.0.2.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-crashlytics-unity/7.0.2/firebase-crashlytics-unity-7.0.2.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-crashlytics-unity/7.0.2/firebase-crashlytics-unity-7.0.2.pom</file>
+  </files>
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.gafu.blockpuzzle.wood" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

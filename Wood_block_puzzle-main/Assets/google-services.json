@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304638760651",
+    "firebase_url": "https://wood-block-puzzle-b1949-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wood-block-puzzle-b1949",
+    "storage_bucket": "wood-block-puzzle-b1949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304638760651:android:2889c3cd0aea72985bad4e",
+        "android_client_info": {
+          "package_name": "com.gafu.blockpuzzle.wood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304638760651-ucer37b0d6jsqrikkl39ns4c25o035p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNRBqE5szoVUfAqdyTKT6O_lBInTQrGkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304638760651-ucer37b0d6jsqrikkl39ns4c25o035p1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "304638760651-ib50mse1ghlj3u5htff6954n0ogi2ld1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gafu.blockpuzzle.wood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

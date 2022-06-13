@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://wood-block-puzzle-b1949-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">304638760651</string>
+  <string name="google_storage_bucket" translatable="false">wood-block-puzzle-b1949.appspot.com</string>
+  <string name="project_id" translatable="false">wood-block-puzzle-b1949</string>
+  <string name="google_api_key" translatable="false">AIzaSyDNRBqE5szoVUfAqdyTKT6O_lBInTQrGkM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDNRBqE5szoVUfAqdyTKT6O_lBInTQrGkM</string>
+  <string name="google_app_id" translatable="false">1:304638760651:android:2889c3cd0aea72985bad4e</string>
+  <string name="default_web_client_id" translatable="false">304638760651-ucer37b0d6jsqrikkl39ns4c25o035p1.apps.googleusercontent.com</string>
+</resources>
